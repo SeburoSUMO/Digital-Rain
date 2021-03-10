@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=Digital Rain
+Comment=
+Exec= od /dev/urandom
+Terminal=false
+Type=Application
+Icon=/opt/Digital Rain/Digital Rain.png
+Categories=GNOME;GTK;Development;
+
+Name[en_GB]=Digital Rain
